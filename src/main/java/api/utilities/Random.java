@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * BonBom
+ * 
  * Date: 8.1.2018
  * Time: 9.37
  */
