@@ -10,7 +10,7 @@ import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 
 /**
- * BonBom
+ * 
  * Date: 4.1.2018
  * Time: 12.28
  */
