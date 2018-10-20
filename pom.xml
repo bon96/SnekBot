@@ -42,11 +42,6 @@
             <artifactId>commons-math3</artifactId>
             <version>3.2</version>
         </dependency>
-        <dependency>
-            <groupId>org.knowm.xchart</groupId>
-            <artifactId>xchart</artifactId>
-            <version>3.5.0</version>
-        </dependency>
 
     </dependencies>
 </project>
